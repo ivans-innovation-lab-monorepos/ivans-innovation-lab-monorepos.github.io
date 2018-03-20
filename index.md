@@ -14,9 +14,4 @@ This lab is a mono-repo version of the [lab (multi-repo version)](http://ivans-i
 
 ![Monorepo](https://github.com/ivans-innovation-lab-monorepos/my-company-backend/raw/master/monorepo.png)
 
-At this stage we are decoupling our components and modules in different packages and we are making them more reusable. This will enables us to switch from monolithic architectural style to alternative microservices architectural style.
-
-You will learn how to:
-- make decisions to use one pattern against the other,
-- changed architecture, culture and process over time to respond to new requirements,
-- make a foundation for successful digitalization.
+At this stage we are decoupling our components and modules in different packages and we are making them more reusable. This enables us to switch from monolithic architectural style to alternative microservices architectural style.
