@@ -27,8 +27,8 @@ navbar-links:
  Technology: "technology"
  Projects: "projects"
  Open innovation lab:
-    - (2). Mono-repo: "#"
-    - 3. Multi-repo: "https://ivans-innovation-lab.github.io"
+    - (1). Mono-repo: "#"
+    - 2. Multi-repo: "https://ivans-innovation-lab.github.io"
  Author's home: "https://idugalic.github.io/"
 # Documentation:
 #   - Book: "https://www.gitbook.com/read/book/ivans-innovation-lab/my-company"
