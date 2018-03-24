@@ -15,7 +15,6 @@ subtitle: Architecture, culture and process
 
 ### Continuous Integration and Delivery 
 - [CircleCI (Continuous Integration)](https://circleci.com/)
-- [Atomist (ChatOps)](https://atomist.com/)
 
 ### Infrastructure and Platform (As A Service)
 - [H2, MySQL (event store, materialized views)](https://www.mysql.com/)
