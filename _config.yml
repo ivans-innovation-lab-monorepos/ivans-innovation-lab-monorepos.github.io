@@ -26,6 +26,7 @@ navbar-links:
 # Blog: "blog"
  Technology: "technology"
  Projects: "projects"
+ Multirepo: "https://ivans-innovation-lab.github.io"
 # Documentation:
 #   - Book: "https://www.gitbook.com/read/book/ivans-innovation-lab/my-company"
 #   - Diagrams: "https://structurizr.com/share/36994#Context"
