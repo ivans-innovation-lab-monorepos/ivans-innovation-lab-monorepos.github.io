@@ -26,7 +26,7 @@ navbar-links:
 # Blog: "blog"
  Technology: "technology"
  Projects: "projects"
- Lab versions:
+ Open innovation lab:
     - 1. Mono-app: "https://idugalic.github.io/micro-company"
     - (2). Mono-repo: "#"
     - 3. Multi-repo: "https://ivans-innovation-lab.github.io"
