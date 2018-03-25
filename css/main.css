@@ -230,6 +230,7 @@ img {
   content: " \25BC";
 }
 .navbar-custom .nav .navlinks-children {
+  background: #29293d;
   width: 100%;
   display: none;
   word-break: break-word;
