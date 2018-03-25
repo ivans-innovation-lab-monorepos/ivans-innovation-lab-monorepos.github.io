@@ -108,7 +108,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  border-bottom: 1px solid #999999;
+  border-bottom: 1px solid #666666;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
   background: {{ site.navbar-col }};
@@ -265,7 +265,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #999999;
+    border: 1px solid #666666;
     border-width: 0 1px 1px;
   }
 }
