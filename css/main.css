@@ -244,7 +244,7 @@ img {
 }
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
-    background: #333333;
+    background: #4d4d4d;
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
@@ -255,7 +255,7 @@ img {
     text-align: center;
   }
   .navbar-custom .nav .navlinks-container:hover {
-    background: #333333;
+    background: #4d4d4d;
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;
