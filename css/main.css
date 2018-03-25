@@ -108,7 +108,6 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #29293d;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-col %}
@@ -238,14 +237,14 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: #29293d;
+  background: black;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
-    background: #29293d;
+    background: black;
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
@@ -256,7 +255,7 @@ img {
     text-align: center;
   }
   .navbar-custom .nav .navlinks-container:hover {
-    background: #29293d;
+    background: black;
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;
