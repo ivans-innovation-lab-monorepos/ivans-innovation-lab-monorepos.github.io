@@ -15,8 +15,6 @@ Exposes a REST API to be consumed by [internal employees or partners](http://idu
 
 Apache Maven is used as a project management and comprehension tool. Maven supports project aggregation in addition to project inheritance. Maven processes projects with multiple modules so you can work with them more effectively.
 
-![Dependiencies - tree](https://github.com/ivans-innovation-lab/ivans-innovation-lab.github.io/raw/master/img/my-company-dependencies.png)
-
 
 ## [Frontend](https://ivans-innovation-lab-monorepos.github.io/my-company-frontend)
 It conusumes a [REST API](https://ivans-innovation-lab-monorepos.github.io/my-company-backend).
