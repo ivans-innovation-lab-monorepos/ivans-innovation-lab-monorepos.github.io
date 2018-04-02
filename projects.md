@@ -10,6 +10,8 @@ Github organization is structured in two repos:
 - [Backend](https://ivans-innovation-lab-monorepos.github.io/my-company-backend)
 - [Frontend](https://ivans-innovation-lab-monorepos.github.io/my-company-frontend)
 
+![Dependiencies - tree](https://github.com/ivans-innovation-lab/ivans-innovation-lab.github.io/raw/master/img/monolith-dep.png)
+
 ## [Backend](https://ivans-innovation-lab-monorepos.github.io/my-company-backend)
 Exposes a REST API to be consumed by [internal employees or partners](http://idugalic.pro/2017-12-26-API-Strategy/).
 
