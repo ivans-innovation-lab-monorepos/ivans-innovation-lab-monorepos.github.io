@@ -8,7 +8,7 @@ The source code of this lab is open, and hosted on Github within the ['ivans-inn
 
 Github organization is structured in two repos:
 - [Backend](https://ivans-innovation-lab-monorepos.github.io/my-company-backend) (Java, Spring, Axonframework)
-- [Frontend](https://ivans-innovation-lab-monorepos.github.io/my-company-frontend) (Typescript, Angular, Nrwl)
+- [Frontend](https://ivans-innovation-lab-monorepos.github.io/my-company-frontend) (TypeScript, Angular, Nrwl)
 
 ![Dependiencies - tree](https://github.com/ivans-innovation-lab/ivans-innovation-lab.github.io/raw/master/img/monolith-dep.png)
 
