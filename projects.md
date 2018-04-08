@@ -25,7 +25,7 @@ Apache Maven is used as a project management and comprehension tool. Maven suppo
 
 
 ## [Frontend](https://ivans-innovation-lab-monorepos.github.io/my-company-frontend)
-It conusumes a [REST API](https://ivans-innovation-lab-monorepos.github.io/my-company-backend).
+It conusumes a [REST API](https://ivans-innovation-lab-monorepos.github.io/my-company-backend#run-monolith).
 
 Application is generated with Angular CLI and [Nrwl](https://nrwl.io/nx) extensions for Angular. 
 
