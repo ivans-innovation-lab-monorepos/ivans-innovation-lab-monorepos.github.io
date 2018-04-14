@@ -17,3 +17,5 @@ We have one deployment pipeline for all projects within one repository. In addit
 ![Monorepo](https://github.com/ivans-innovation-lab-monorepos/my-company-backend/raw/master/monorepo.png)
 
 At this stage we are able to archive our modules in different packages, and we are making them more reusable. This will enable us to switch from monolithic architectural style to alternative microservices architectural style easier.
+
+ [Read more ...](/projects)
