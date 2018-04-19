@@ -6,7 +6,7 @@ tags:
   - API
   - REST
   - Business
-published: false
+published: true
 ---
 
 The data and services made available via your [APIs](https://en.wikipedia.org/wiki/Application_programming_interface) are consumed by your employees (B2E), your customers (B2C), or other businesses (B2B).
